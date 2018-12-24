@@ -1,15 +1,15 @@
-##Easiest way: 
+## Easiest way: 
 EC2 Dashboard > Instances Launch Instance
 Go to communities AMI > Select Ubuntu and look for RStudio in the search box
 Select one of the machines > Review and Launch
 
-##Easy way:
+## Easy way:
 Create a EC2 Linux instance
 In the prompt:
 sudo amazon-linux-extras install epel
 sudo yum install R
 
-##Difficult way:
+## Difficult way:
 Create a VPC
 Create a public subnet inside the VCP you created
 Create an Internet Gateway and attatch it to your VPC 
