@@ -40,6 +40,7 @@
 [ec2-user ~]$ sudo service httpd start
 ```            
 
+(***)
 10. Configure the web server to start with each system boot using the chkconfig command.
 ```javascript
 [ec2-user ~]$ sudo chkconfig httpd on
