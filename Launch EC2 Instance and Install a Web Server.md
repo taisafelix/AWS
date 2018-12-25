@@ -85,7 +85,7 @@ ec2-user wheel www
 [ec2-user ~]$ cd inc
 ``` 
 
-19 Create a new file in the inc directory named dbinfo.inc, and then edit the file
+19. Create a new file in the inc directory named dbinfo.inc, and then edit the file
 ```javascript
 [ec2-user ~]$ >dbinfo.inc
 [ec2-user ~]$ nano dbinfo.inc
@@ -101,7 +101,7 @@ ec2-user wheel www
 [ec2-user ~]$ nano SamplePage.php
 ```
 
-22 Write your Hello code: 
+22. Write your Hello code: 
 ```javascript
 <html>
 <head>
